@@ -1,6 +1,15 @@
 # ewaluacja-2017-2021
 
-Dane o publikacjach zgłoszonych do ewaluacji jakości działalności naukowej za lata 2017-2021 w dyscyplinie nauki socjologiczne otrzymane od Ministerstwa Edukacji i Nauki w dniu 12 maja 2023.
+Załącznik do inf. publicznej_wykaz osiągnięć K1 nauki socjologiczne.xlsx: Dane o publikacjach zgłoszonych do ewaluacji jakości działalności naukowej za lata 2017-2021 w dyscyplinie nauki socjologiczne otrzymane od Ministerstwa Edukacji i Nauki w dniu 12 maja 2023.
+
+Ewaluacja_2022.publikacje.3N.filozofia.xlsx: Dane z filozofii; od @milekpl.
+
+Publikacje odrzucone.xlsx: Liczba publikacji odrzuconych według dyscyplin; od @milekpl.
+
+Zalacznik.do.inf.publicznej_IFiS_osiagniecia.odrzucone.pdf: Liczba publikacji odrzuconych według dyscyplin jako pdf; od @milekpl.
+
+
+Dane z innych dyscyplin (linki zewnętrzne):
 
 Filozofia: https://incet.uj.edu.pl/aktualnosci/-/journal_content/56_INSTANCE_l13JTNLQWt7Q/137114104/152977087
 
