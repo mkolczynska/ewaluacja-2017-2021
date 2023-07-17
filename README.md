@@ -16,3 +16,5 @@ Filozofia: https://incet.uj.edu.pl/aktualnosci/-/journal_content/56_INSTANCE_l13
 Historia: https://www.academia.edu/100758279/Za%C5%82acznik_do_inf_publicznej_wykaz_osiagniec_K1_historia_plik_xlsx
 
 Nauki prawne: https://ujchmura-my.sharepoint.com/:x:/g/personal/maciej_juzaszek_uj_edu_pl/EWKTwn7A35xApv38vRCk7CsBdSy9XPc6GRHwhByLdD9K4g
+
+Nauki o zarządzaniu i jakości: https://osf.io/4usvm/
